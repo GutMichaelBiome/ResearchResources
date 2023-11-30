@@ -18,11 +18,9 @@ Contributors:
 * Establish: thesis or theme, major idea
     * Everything you write should advance the theme
 * Define: which arguments need to make to prove that theme or goal is true
-    * 
 * Organize: Order ideas and provide transitions between them
     * Natural progression of the story
 * Connect: 
-    * 
 * Clarify: 
     * Balance sharing information and leaving out information
 
@@ -62,6 +60,7 @@ Use the following archetypes to frame your writing. Pretend as if you are a fict
 
 ## Organizing your thoughts with PowerPoint slides:
 
+As you start acquiring results from your analysis, it can be helpful to organize your figures into PowerPoint slides so that you can start to arrange what order you'd like to present your figures in your manuscript.
 
 * Order of writing manuscript sections:
     * Results \> Methods \> Discussion \> Conclusion \> Introduction
@@ -86,11 +85,10 @@ Use the following archetypes to frame your writing. Pretend as if you are a fict
 
 ## Structure of manuscript:
 
-Abstract:
+### Abstract:
 
-* Generally abstract will include a sentence or two of the following,
-    and not necessarily in this exact order
-    * [Nature abstract example](https://www.nature.com/documents/nature-summary-paragraph.pdf)
+The abstract is a like a mini-paper. You're condensing everything into less than 300 words, typically. Generally abstract will include a sentence or two of the following, and not necessarily in this exact order
+
 1. Background/why you did your study
     * "X is an important model organism, yet little is known about Y"
 2. What you did
@@ -101,6 +99,9 @@ Abstract:
     * "Our analysis finds X"
 5. What you learned/implications
     * "Our results indicate X"
+
+#### Examples:
+* [Nature abstract example](https://www.nature.com/documents/nature-summary-paragraph.pdf)
 
 ### Intro:
 
@@ -130,12 +131,12 @@ Abstract:
     * What did you determine (don't write results or implications
         here, just the major things you investigated). 
         * "We determined which normalization performs optimally".
-        * "We determined how to evaluate which normalization to use in X scenarios." "We determined the performance of ad-hoc methods..", etc. etc.
+        * "We determined how to evaluate which normalization to use in X scenarios." "We determined the performance of ad-hoc methods...", etc. etc.
 
 ### Results:
 
 * Title of each result's sub*sections are the main take-home message
-* First sentence of each paragraph: "To determine X, Y, Z (results for this sub*section), we did A, B, C (Methods)". You'll only talk about these things in this paragraph. A different analysis or to determine something else will go into a new paragraph so long as it's related to the sub*section's take-home message. Subsequent paragraphs will follow this and the following structures.
+* First sentence of each paragraph: "To determine X, Y, Z (results for this sub-section), we did A, B, C (Methods)". You'll only talk about these things in this paragraph. A different analysis or to determine something else will go into a new paragraph so long as it's related to the sub-section's take-home message. Subsequent paragraphs will follow this and the following structures.
     * Ran a test, found a result (P value; Figure 1A).
     * This result indicates blah blah blah (one sentence)
     * Ran another test, found a result (p value; figure 1B)
