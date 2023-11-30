@@ -96,21 +96,21 @@ Introduction to the Aims
 
 Follow this general format for introducing a major idea.
 
-A. Major idea
-  1. Topic sentence #1
-    * Specific argument and support
-    * Specific argument and support
-    * Specific argument and support
+1. Major idea
+   1. Topic sentence #1
+      * Specific argument and support
+      * Specific argument and support
+      * Specific argument and support
  
- 1. Topic sentence #2
-    * Specific argument and support
-    * Specific argument and support
-    * Specific argument and support
+   2. Topic sentence #2
+      * Specific argument and support
+      * Specific argument and support
+      * Specific argument and support
 
-  2. Topic sentence #3
-    * Specific argument and support
-    * Specific argument and support
-    * Specific argument and support
+   3. Topic sentence #3    
+      * Specific argument and support
+      * Specific argument and support
+      * Specific argument and support
 
 
 ## Additional writing resources:

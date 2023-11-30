@@ -164,7 +164,7 @@ The abstract is a like a mini-paper. You're condensing everything into less than
     * "In conclusion, we found that X blah blah blah." You want to repeat each of your major findings and what the implications are of each finding. You're going to write at a slightly higher level, more general so that a college educated science student could understand what you found and why it matters.
     * Expound on any major limitations of your study, don't sweat the small stuff.
     * Expound on any major gaps that future work could address
-    * Last sentence is the major major take-home message of your entire paper. 
+    * Last sentence is the major take-home message of your entire paper. 
         * If someone read nothing else, what is the one thing you'd want them to walk away with in one sentence?
 
 ### Conclusion:
