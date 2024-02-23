@@ -60,28 +60,29 @@ Use the following archetypes to frame your writing. Pretend as if you are a fict
 
 ## Organizing your thoughts with PowerPoint slides:
 
-As you start acquiring results from your analysis, it can be helpful to organize your figures into PowerPoint slides so that you can start to arrange what order you'd like to present your figures in your manuscript.
+My advisor strongly recommends using a PowerPoint slide deck to organize my results and thoughts prior to starting any drafting of a scientific manuscript. I’ve found this strategy to be helpful for clarifying what the narrative story is of my manuscript. It also helps focus the story to be within a manageable scope, cutting away any excess information. 
 
-* Order of writing manuscript sections:
-    * Results \> Methods \> Discussion \> Conclusion \> Introduction
-        \> Abstract
-    * Often, when writing results you have to go back and rerun analyses, double check things, correct errors, etc. So, it's best to wait until after you've nailed down your results before you spend significant time writing any of the other sections.
-* For each section of the manuscript, make a PowerPoint for it
-    * Each paragraph of each section will have its own slide
-    * This allows you to quickly rearrange things, and make changes on the fly. 
-    * The title of the slide is the thesis statement or major take-home message of that paragraph
-    * Each slide's bullet points are the major arguments that support the title's thesis
-* For the results section slides:
-    * Collect all the figures you want to use for your results
-        sections
-    * Organize the figures by sub*section
-    * Each result subsection will have it's own slide
-        * Don't worry about order of the slides right now. Just get the figures onto a slide
-    * The title of each results sub*section is the major take home message of that section
-        * The slide title can also be used for the title of the corresponding results sub*section
-    * Once you've gathered all the figures onto slides and assigned titles, you can start to organize them into a coherent narrative flow, so that they tell a story
-        * You want the order of the figures to make sense to the reader
-        * The order of the figures may not necessarily line up with how you actually conducted your analysis.
+Steps to writing a manuscript:
+1.	Results > Discussion > Conclusion > Intro > Abstract
+   * Often, when writing results you have to go back and rerun analyses, double check things, correct errors, etc. So, it's best to wait until after you've nailed down your results before you spend significant time writing any of the other sections.
+2.	Generate figures as many figures as possible (within reason)
+   * At this point, you may not know which figures are main, supplementary or not needed, so collect them all into a PowerPoint slide deck
+3.	PowerPoint slide deck of results
+   * One figure per slide
+   * Titles of slides are the main result/key takeaway of that figure
+     * If you can’t figure out the title, you probably don’t understand the results well enough
+     * If you can’t fit the title into one sentence, then you probably need to break up the slide into multiple slides
+4.	Organize figures into main themes/categories
+   * Create sections in PowerPoint as major results subsections
+   * Move figures around as needed to craft a general narrative
+   * Note: the arrangement of figures on the slides may not actually match up with the order in which you conducted your analyses
+d.	
+5.	Make an outline in Word with main figures 
+   * Copy/paste titles from slides into outline with corresponding figures
+   * Figures that aren’t main ones, will go into a document of supplementary figures/tables.
+6.	Start drafting text for each results subsection
+   * You can start piecing together your results section by copy/pasting text from your PowerPoint slides
+
 
 ## Structure of manuscript:
 
