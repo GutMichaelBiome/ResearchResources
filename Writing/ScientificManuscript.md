@@ -132,6 +132,7 @@ For each of these, you'll want to consider the following questions:
     * What did you find? 
 * Implications
   * Why does it matter? So what? Who cares? 
+  * What could this mean (implication), but what is needed to prove it? (Source: Melanie Ortiz)
   * What does this mean for your field? Broadly? To the layperson?
     * Think about the intersections of your field and other fields
     * What does it mean for big systemic issues?
